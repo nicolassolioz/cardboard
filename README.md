@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Cardboard App
 
+Drag & Drop cards between different columns, like Trello, Jira, Linear & Asana. Works like a kanban board.
+
+![](https://gifyu.com/image/SCKNI)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
