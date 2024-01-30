@@ -6,6 +6,16 @@ Drag & Drop cards between different columns, like Trello, Jira, Linear & Asana. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Launch locally with Docker
+
+1. Pull this repo
+2. Make sure you have Docker installed and running on your machine.
+3. Open your Terminal and navigate to the repo
+4. Run the following command : `docker image build -t cardboard:latest .`
+5. This will create your Docker image
+6. Once the Docker image is created, build your container by running `docker run -dp 8000:3000 --name cardboard-container cardboard:latest`
+7. Once the container is running, you'll be able to access the application by opening your browser and navigating to http://localhost:8000/
+
 ## Available Scripts
 
 In the project directory, you can run:
