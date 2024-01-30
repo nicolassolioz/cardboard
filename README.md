@@ -2,7 +2,7 @@
 
 Drag & Drop cards between different columns, like Trello, Jira, Linear & Asana. Works like a kanban board.
 
-[![SCKNI.gif](https://s13.gifyu.com/images/SCKNI.gif)](https://gifyu.com/image/SCKNI)
+![](https://s13.gifyu.com/images/SCKNI.gif)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
