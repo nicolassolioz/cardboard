@@ -6,6 +6,8 @@ Drag & Drop cards between different columns, like Trello, Jira, Linear & Asana. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Most of the work is based on GitHub user ksekwamote and his KanbanBoard repository. Thanks for the great code! 
+
 ## Launch locally with Docker
 
 1. Pull this repo
